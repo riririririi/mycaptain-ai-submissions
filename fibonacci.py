@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 n = int(input("enter the number of terms you want in the fibonacci sequence: "))
 a = 0
 b = 1
